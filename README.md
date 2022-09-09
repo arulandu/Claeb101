@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Claeb101/Claeb101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alvan Caleb Arulandu: a creative coder, math researcher, and senior at [TJHSST](tjhsst.edu). 
 
-Here are some ideas to get you started:
+Here, you can find:
+- 🌐 Websites
+- 🏓 Video games
+- 🔭 Creative explorations
+- 🧩 Utility frameworks
+- 🎥 Source code for my [YouTube videos](https://www.youtube.com/channel/UCilU-F_xHJRs3MPUtbejj2A)
+- 📚 LaTeX Lectures and Competitive Programming Resources
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claeb101&show_icons=true&layout=compact&theme=dark)](https://github.com/Claeb101)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Claeb101&layout=compact&theme=dark)](https://github.com/Claeb101)
