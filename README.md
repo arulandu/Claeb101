@@ -5,7 +5,7 @@ I'm Alvan Caleb Arulandu: a creative coder, math researcher, and senior at [TJHS
 Here, you can find:
 - 🌐 Websites
 - 🏓 Video games
-- 🔭 Creative explorations
+- 🚀 Creative explorations
 - 🧩 Utility frameworks
 - 🎥 Source code for my [YouTube videos](https://www.youtube.com/channel/UCilU-F_xHJRs3MPUtbejj2A)
 - 📚 LaTeX Lectures and Competitive Programming Resources
